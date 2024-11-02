@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8618825-e137-4478-9af3-2e5c33e21468" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/behaviors/fly/FlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/behaviors/fly/FlyNoWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/behaviors/fly/FlyWithWings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/behaviors/quack/FakeQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/behaviors/quack/MuteQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/behaviors/quack/Quack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/behaviors/quack/QuackBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/behaviors/quack/Squeak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/ducks/DecoyDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/ducks/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/ducks/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/ducks/ModelDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/ducks/RedHeadDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/ducks/RubberDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/simulator/MiniDuckSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/simulator/MiniDuckSimulator1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2oHS6U2hV9jinZSzct8yIArWUtJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/abdulirshad/IdeaProjects/DesignPatterns/src/strategy/ducksim/simulator",
+    "onboarding.tips.debug.path": "/Users/abdulirshad/IdeaProjects/DesignPatterns/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="strategy.ducksim.behaviors.fly" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/strategy/ducksim/simulator" />
+      <recent name="$PROJECT_DIR$/src/strategy/ducksim/ducks" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="strategy.ducksim.ducks" />
+      <recent name="strategy.ducksim.behaviors.quack" />
+      <recent name="strategy.ducksim.behaviors.fly" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MiniDuckSimulator1">
+    <configuration name="MiniDuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strategy.ducksim.simulator.MiniDuckSimulator" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strategy.ducksim.simulator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MiniDuckSimulator1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strategy.ducksim.simulator.MiniDuckSimulator1" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strategy.ducksim.simulator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MiniDuckSimulator1" />
+        <item itemvalue="Application.MiniDuckSimulator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8618825-e137-4478-9af3-2e5c33e21468" name="Changes" comment="" />
+      <created>1730524837258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730524837258</updated>
+    </task>
+    <servers />
+  </component>
+</project>
