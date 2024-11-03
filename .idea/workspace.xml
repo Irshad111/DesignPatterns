@@ -4,29 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8618825-e137-4478-9af3-2e5c33e21468" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/behaviors/fly/FlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/behaviors/fly/FlyNoWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/behaviors/fly/FlyWithWings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/behaviors/quack/FakeQuack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/behaviors/quack/MuteQuack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/behaviors/quack/Quack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/behaviors/quack/QuackBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/behaviors/quack/Squeak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/ducks/DecoyDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/ducks/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/ducks/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/ducks/ModelDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/ducks/RedHeadDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/ducks/RubberDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/simulator/MiniDuckSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/ducksim/simulator/MiniDuckSimulator1.java" afterDir="false" />
+    <list default="true" id="b8618825-e137-4478-9af3-2e5c33e21468" name="Changes" comment="strategy patterns">
+      <change afterPath="$PROJECT_DIR$/src/observer/simple/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/simple/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/simple/observer/SimpleObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/simple/subject/SimpleSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/simple/subject/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/simpleobservable/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/simpleobservable/observer/SimpleObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/simpleobservable/subject/SimpleSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/weather/WeatherStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/weather/WeatherStationHeatIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/weather/observer/CurrentConditionsDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/weather/observer/DisplayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/weather/observer/ForecastDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/weather/observer/HeatIndexDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/weather/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/weather/observer/StatisticsDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/weather/subject/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/weather/subject/WeatherData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/weatherobservable/WeatherStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/weatherobservable/WeatherStationHeatIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/weatherobservable/observer/CurrentConditionsDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/weatherobservable/observer/DisplayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/weatherobservable/observer/ForecastDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/weatherobservable/observer/HeatIndexDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/weatherobservable/observer/StatisticsDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/weatherobservable/subject/WeatherData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +62,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/abdulirshad/IdeaProjects/DesignPatterns/src/strategy/ducksim/simulator",
+    "last_opened_file_path": "/Users/abdulirshad/IdeaProjects/DesignPatterns/src/observer/simpleobservable",
     "onboarding.tips.debug.path": "/Users/abdulirshad/IdeaProjects/DesignPatterns/src/Main.java"
   }
 }]]></component>
@@ -67,13 +73,18 @@
       <recent name="strategy.ducksim.behaviors.fly" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/observer/simpleobservable" />
+      <recent name="$PROJECT_DIR$/src/observer" />
+      <recent name="$PROJECT_DIR$/src/observer/weather/observer" />
       <recent name="$PROJECT_DIR$/src/strategy/ducksim/simulator" />
       <recent name="$PROJECT_DIR$/src/strategy/ducksim/ducks" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="observer.weather" />
+      <recent name="observer.weather.subject" />
+      <recent name="observer.weather.observer" />
       <recent name="strategy.ducksim.ducks" />
       <recent name="strategy.ducksim.behaviors.quack" />
-      <recent name="strategy.ducksim.behaviors.fly" />
     </key>
   </component>
   <component name="RunManager" selected="Application.MiniDuckSimulator1">
@@ -119,6 +130,30 @@
       <option name="presentableId" value="Default" />
       <updated>1730524837258</updated>
     </task>
+    <task id="LOCAL-00001" summary="strategy patterns">
+      <option name="closed" value="true" />
+      <created>1730535771465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730535771466</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="strategy patterns" />
+    <option name="LAST_COMMIT_MESSAGE" value="strategy patterns" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/observer/weather/observer/DisplayElement.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
